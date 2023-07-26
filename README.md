@@ -1,7 +1,7 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)]
 <h1 align="center">Hi 👋, I'm Apurv Choudhary</h1>
 <h3 align="center">A passionate Software developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://i.pinimg.com/originals/d3/21/39/d32139e3536ce0e0c12762cc3da5c756.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurvthecoder&label=Profile%20views&color=0e75b6&style=flat" alt="apurvthecoder" /> </p>
 
