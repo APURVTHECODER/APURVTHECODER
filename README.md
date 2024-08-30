@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://apurv-choudhary.netlify.app/](https://apurv-choudhary.netlify.app/)
 
-- 💬 Ask me about **Java , Spring Boot**
+- 💬 Ask me about **React ,Kotlin ,Android Studio, Firebase, Java , Spring Boot**
 
 - 📫 How to reach me **apurvsinghchoudhary@gmail.com**
 
